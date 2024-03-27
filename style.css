@@ -1,0 +1,98 @@
+.top{
+    color: rgb(33, 33, 33);
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    }
+    .h1{
+        color: rgb(33, 33, 33);
+        font-family: "Roboto", sans-serif;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 42px;
+    }
+    .info{
+        color: rgb(33, 150, 243);
+        font-family: "Raleway", sans-serif;
+        font-size: 26px;
+        font-weight: 700;
+        line-height: 31px;
+    }
+    .in card{
+        color: rgb(255, 255, 255);
+    }
+    .adress-links{
+        color: rgb(255, 255, 255);
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    }
+    .gmail{
+        color: rgba(255, 255, 255, 0.6);
+        font-family: "Roboto", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    .number{
+       color: rgba(255, 255, 255, 0.6);
+       font-family: "Roboto", sans-serif;
+       font-size:14px;
+       font-weight: 400;
+       line-height: 24px;
+    }
+    .card-user{
+        color: rgb(33, 33, 33);
+        font-family: "Roboto", sans-serif;
+       font-size:16px;
+       font-weight: 500;
+       line-height: 19px;
+    }
+    .navbar-link{
+         color: rgb(33, 33, 33);
+         font-family: "Roboto", sans-serif;
+         font-size: 14px;
+         font-weight: 700;
+         line-height: 16px;
+    }
+    .user{
+        color:rgb(117, 117, 117);
+        font-family: "Roboto", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+    .box2{
+       color: rgb(117, 117, 117);
+    }
+    .box3{
+        color:rgb(117, 117, 117);
+    }
+    .order{
+        color:rgb(33, 150, 243);
+        font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 16px;
+       line-height:30px
+    }
+         ; 
+    .efect{
+        color: rgb(255, 255, 255);
+        font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+        font-size: 44px;
+       line-height:60px ; 
+    }
+    a4{
+        color: red;
+    }
+    a5{
+        color: red;
+    }
+    p+ul{
+        font-size: 24px;
+    }
